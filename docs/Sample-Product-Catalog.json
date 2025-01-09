@@ -1,0 +1,340 @@
+[
+{
+    "commonDetails": {
+    "productCode": "PC00100",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Assurance & Assessment Service",
+    "longDescription": "Assurance & Assessment Service",
+    "description": "Assurance & Assessment Service",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00101",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Validation & Verification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00102",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Remediation Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00103",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Pentesting Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+
+{
+    "commonDetails": {
+    "productCode": "PC00104",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Feature Addition",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00105",
+    "productName": "open-adas",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "TAVOSS Version & Certification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00106",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Assurance & Assessment Service",
+    "longDescription": "Assurance & Assessment Service",
+    "description": "Assurance & Assessment Service",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00107",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Validation & Verification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00108",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Remediation Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00109",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Pentesting Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00110",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Feature Addition",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00111",
+    "productName": "openpilot",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "TAVOSS Version & Certification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00112",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Assurance & Assessment Service",
+    "longDescription": "Assurance & Assessment Service",
+    "description": "Assurance & Assessment Service",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00113",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Validation & Verification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00114",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Remediation Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00115",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Pentesting Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00116",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Feature Addition",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00117",
+    "productName": "apollo",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "TAVOSS Version & Certification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00118",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Assurance & Assessment Service",
+    "longDescription": "Assurance & Assessment Service",
+    "description": "Assurance & Assessment Service",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00119",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Validation & Verification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00120",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Remediation Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00121",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Pentesting Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00122",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "Feature Addition",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+},
+
+{
+    "commonDetails": {
+    "productCode": "PC00123",
+    "productName": "openauto",
+    "MRP": 11000,
+    "purchasePrice": 9000,
+    "productCategory": "OSS Project",
+    "productSubcategory1": "TAVOSS Version & Certification Service",
+    "longDescription": "long-desc",
+    "description": "desc",
+    "type":"item"
+  }
+}
+
+
+]
